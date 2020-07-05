@@ -1,6 +1,6 @@
 # Not Useful
 
-Stuff that found not really useful for me
+Stuff that found not really useful for me at the moment.
 
 ## Development
 
@@ -16,7 +16,7 @@ Stuff that found not really useful for me
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left"><a href="https://laravel.com">Laravel</a>
+      <td style="text-align:left">[Laravel](https://laravel.com)
       </td>
       <td style="text-align:left">
         <p>Full featured PHP framework</p>
@@ -52,7 +52,7 @@ Stuff that found not really useful for me
       </td>
       <td style="text-align:left">
         <ul>
-          <li>async/await should fit daily use</li>
+          <li>async/await should fit current usage</li>
         </ul>
       </td>
     </tr>
