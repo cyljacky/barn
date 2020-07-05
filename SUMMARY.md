@@ -1,4 +1,5 @@
 # Table of contents
 
-* [Initial page](README.md)
-
+* [Hello World!](README.md)
+* [Miscellaneous](misc/README.md)
+  * [Resume Improvement](misc/resume-improvement.md)
