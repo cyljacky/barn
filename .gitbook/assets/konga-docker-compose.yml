@@ -1,0 +1,50 @@
+version: "3"
+
+services:
+  konga-database:
+    image: postgres:11-alpine
+    networks:
+      - konga
+    environment:
+      - POSTGRES_USER=konga
+      - POSTGRES_DB=konga_database
+
+  konga-db-init:
+    image: pantsel/konga:latest
+    networks:
+      - konga
+    links:
+      - konga-database
+    volumes: 
+      - /var/lib/postgresql/data
+    environment:
+      - DB_ADAPTER=postgres
+      - DB_HOST=konga-database
+      - DB_PORT=5432
+      - DB_USER=konga
+      - DB_DATABASE=konga_database
+    command: -c prepare
+    depends_on:
+      - konga-database
+
+  konga:
+    image: pantsel/konga:latest
+    networks:
+      - konga
+    links:
+      - konga-database
+    ports:
+      - "1337:1337"
+    environment:
+      - NODE_ENV=development
+      - TOKEN_SECRET=testing
+      - DB_ADAPTER=postgres
+      - DB_HOST=konga-database
+      - DB_PORT=5432
+      - DB_USER=konga
+      - DB_DATABASE=konga_database
+    depends_on:
+      - konga-db-init
+
+networks:
+  konga:

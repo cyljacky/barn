@@ -1,0 +1,51 @@
+version: "3"
+
+services:
+  kong-database:
+    image: postgres:11-alpine
+    networks:
+      - kong
+    volumes: 
+      - /var/lib/postgresql/data
+    environment:
+      - POSTGRES_USER=kong
+      - POSTGRES_DB=kong
+
+  kong-migration:
+    image: kong:1.0.3-alpine
+    networks:
+      - kong
+    restart: on-failure
+    environment:
+      - KONG_DATABASE=postgres
+      - KONG_PG_HOST=kong-database
+    command: kong migrations bootstrap
+    depends_on:
+      - kong-database
+      
+  kong:
+    image: kong:1.0.3-alpine
+    networks:
+      - kong
+    restart: always
+    environment:
+      - KONG_DATABASE=postgres
+      - KONG_PG_HOST=kong-database
+      - KONG_PROXY_ACCESS_LOG=/dev/stdout
+      - KONG_ADMIN_ACCESS_LOG=/dev/stdout
+      - KONG_PROXY_ERROR_LOG=/dev/stderr
+      - KONG_ADMIN_ERROR_LOG=/dev/stderr
+      - KONG_ADMIN_LISTEN=0.0.0.0:8001, 0.0.0.0:8444 ssl
+    ports:
+      - "8000:8000"
+      - "8443:8443"
+      - "8001:8001"
+      - "8444:8444"
+    depends_on:
+      - kong-migration
+
+networks:
+  kong:
+
+volumes:
+  kong-database:

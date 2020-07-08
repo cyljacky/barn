@@ -75,3 +75,9 @@ Version Control System
 
 ### [GitBook](https://www.gitbook.com/)
 Platform used for storing passage, or documentation
+
+## Self-host services
+
+### [Kong](https://docs.konghq.com/1.0.x/admin-api)
+Proxy which allows user to control network access with RESTful API
+
