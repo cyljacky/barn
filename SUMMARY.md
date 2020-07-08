@@ -17,3 +17,4 @@
   * [Multi-web-service in one server](case-study/multiple-web-host-on-single-server.md)
 * [Miscellaneous](misc/README.md)
   * [Resume Improvement](misc/resume-improvement.md)
+  * [Hold Better Meeting](misc/meeting.md)
