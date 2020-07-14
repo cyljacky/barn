@@ -65,6 +65,11 @@ Container Management
 ### [GitLab CI/CD](https://docs.gitlab.com/ee/ci/)
 Automate environment buildup, testing, and deployment
 
+### [Yarn](https://yarnpkg.com/)
+[experience](../experience/yarn.md)
+Package manager fully compatible with npm, but solves some problems of it.
+Document using version 2, but default installation using version 1. (20200714)
+
 ## Collaboration
 
 ### [Git](https://git-scm.com/)
