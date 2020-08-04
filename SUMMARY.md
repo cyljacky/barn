@@ -4,7 +4,6 @@
 * [Products](products/README.md)
   * [In Use](products/in-use.md)
   * [Useful](products/useful.md)
-  * [Interested](products/interested.md)
   * [Not useful](products/not-useful.md)
 * [Experience](experience/README.md)
   * [Jekyll](experience/jekyll.md)
