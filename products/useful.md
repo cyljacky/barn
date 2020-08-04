@@ -6,6 +6,8 @@ Things that is useful under certain situation.
 
 ### [JWT](https://jwt.io/)
 [experience](../experience/json-web-token.md)
+
+
 Standard to verify token across servers
 - Should be stateless
 
@@ -67,6 +69,8 @@ Automate environment buildup, testing, and deployment
 
 ### [Yarn](https://yarnpkg.com/)
 [experience](../experience/yarn.md)
+
+
 Package manager fully compatible with npm, but solves some problems of it.
 Document using version 2, but default installation using version 1. (20200714)
 
@@ -74,6 +78,8 @@ Document using version 2, but default installation using version 1. (20200714)
 
 ### [Git](https://git-scm.com/)
 [experience](../experience/vcs-git.md)
+
+
 Version Control System
 
 ## Documentation
