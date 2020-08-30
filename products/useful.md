@@ -38,6 +38,9 @@ Web frontend framework using virtual DOM to control the components' behaviour an
 
 Python library helps build up Command Line Interface in quick and intuitive way.
 
+### [Vercel](https://vercel.com/)
+Framework for JavaScript frontend development
+
 ## Data
 
 List of data operation stuff.
@@ -50,6 +53,9 @@ SQL statement similar with MySQL but rumors said a bit faster
 
 ### [Flyway](https://flywaydb.org)
 Database schema versioning tool
+
+### (Plod)(https://plod.app/#/)
+Data graph hosting with charts
 
 ## Metric
 
@@ -76,6 +82,9 @@ Automate environment buildup, testing, and deployment
 Package manager fully compatible with npm, but solves some problems of it.
 Document using version 2, but default installation using version 1. (20200714)
 
+### [mkcert](https://github.com/FiloSottile/mkcert)
+Make a local trust development SSL certificate
+
 ## Collaboration
 
 ### [Git](https://git-scm.com/)
@@ -94,3 +103,11 @@ Platform used for storing passage, or documentation
 ### [Kong](https://docs.konghq.com/1.0.x/admin-api)
 Proxy which allows user to control network access with RESTful API
 
+### [WireGuard](https://www.wireguard.com/)
+Open source VPN
+
+
+## Productivity
+
+### [Manta](https://github.com/hql287/Manta)
+Invoice generator

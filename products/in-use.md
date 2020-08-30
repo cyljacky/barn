@@ -70,3 +70,13 @@ ADs blocker by DNS blackhole routing
 
 ### [VisBug](https://github.com/GoogleChromeLabs/ProjectVisBug)
 Open source web design debug tools in Extension
+
+## 3-rd Party Services
+
+### [Cloudflare](https://www.cloudflare.com/)
+DNS, DDOS protection, etc
+
+### [Godaddy](https://godaddy.com/)
+Domain Purchase
+
+### [Namecheap](https://www.namecheap.com/)
