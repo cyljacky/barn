@@ -21,6 +21,12 @@ JSON schema standard formatted
 ### [OpenAPI Specification](https://github.com/OAI/OpenAPI-Specification)
 Swagger document format
 
+### [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+Obvious marked in title
+
+### [HTTP Status Code](https://httpstatuses.com/)
+HTTP code cheatsheet
+
 ## Framework
 
 ### [ExpressJS](https://expressjs.com/)
@@ -54,8 +60,11 @@ SQL statement similar with MySQL but rumors said a bit faster
 ### [Flyway](https://flywaydb.org)
 Database schema versioning tool
 
-### (Plod)(https://plod.app/#/)
+### [Plod](https://plod.app/#/)
 Data graph hosting with charts
+
+### [Grafana](https://github.com/grafana/grafana)
+Tool for data visualization
 
 ## Metric
 
@@ -85,6 +94,12 @@ Document using version 2, but default installation using version 1. (20200714)
 ### [mkcert](https://github.com/FiloSottile/mkcert)
 Make a local trust development SSL certificate
 
+### [mitmproxy](https://mitmproxy.org/)
+Proxy logs all HTTP request
+
+### [Fiddler](https://www.telerik.com/fiddler)
+Another Proxy logs all HTTP request
+
 ## Collaboration
 
 ### [Git](https://git-scm.com/)
@@ -93,21 +108,36 @@ Make a local trust development SSL certificate
 
 Version Control System
 
-## Documentation
+### [GitUp](https://gitup.co/)
+Git visualization tool
 
-### [GitBook](https://www.gitbook.com/)
-Platform used for storing passage, or documentation
+### [Fork](https://git-fork.com/)
+Another git visualization tool
+
+### [GitX-dev](http://rowanj.github.io/gitx/)
+Another git visualization tool
 
 ## Self-host services
 
-### [Kong](https://docs.konghq.com/1.0.x/admin-api)
-Proxy which allows user to control network access with RESTful API
+### [OpenResty](https://openresty.org/en/)
+Available to run some code(Lua) within Nginx configuration files
 
 ### [WireGuard](https://www.wireguard.com/)
 Open source VPN
 
+### [loginsrv](https://github.com/tarent/loginsrv)
+Standalone minimalistic login server providing a JWT login for multiple login backends
+
+### [imageoptim](https://imageoptim.com/mac)
+Image compresser
 
 ## Productivity
 
 ### [Manta](https://github.com/hql287/Manta)
 Invoice generator
+
+## Other's List
+
+- (https://github.com/hzlzh/Best-App)[https://github.com/hzlzh/Best-App]
+- (https://github.com/jaywcjlove/awesome-mac)[https://github.com/jaywcjlove/awesome-mac]
+- (https://kaochenlong.com/2012/01/04/my-toolbox/)[https://kaochenlong.com/2012/01/04/my-toolbox/]

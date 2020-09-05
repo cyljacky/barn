@@ -19,6 +19,17 @@ Open source markdown editor
 ### [ProtonDB](https://www.protondb.com/)
 Database about playing Steam games on Linux originally available on Windows
 
+### [BlueStack](https://www.bluestacks.com/tw/index.html)
+Play mobile games on PC
+
+### [Fantastical](https://flexibits.com/fantastical)
+Mac Calender replacement
+
+### [Boop](https://boop.okat.best/)
+Local text parser, Mac only
+- under active development(20200902)
+- UX needs some improvement, as some operation needs multi-field input
+
 ## Software
 
 ### [Jekyll](https://jekyllrb.com/)
@@ -39,7 +50,16 @@ Universal document format converter
 
 ### [Frink](https://frinklang.org/)
 Calculation tool for unit convertion and mathematics
-- Lacks a good UX
+- Needs a good UX
+
+### [mermaid](https://mermaid-js.github.io/mermaid/#/)
+Use it's own syntax to generate different types of graphs
+
+### [Hermes](https://github.com/allegro/hermes)
+Message Queue with RESTful interface
+
+### [Kong](https://docs.konghq.com/1.0.x/admin-api)
+Proxy which allows user to control network access with RESTful API
 
 ## Framework 
 
@@ -84,6 +104,9 @@ JavaScript UI components
 ### [Leaflet](https://leafletjs.com/)
 Place custom marker on map using JavaScript
 
+### [LATEX.css](https://latex.now.sh/)
+Webpage in LATEX style
+
 ## 3-rd Party Service
 
 ### [Airtable](https://airtable.com/)
@@ -92,6 +115,10 @@ May be used for Project Management
 
 ### [Nuclino](https://www.nuclino.com/)
 Confluence-like collaboration documentation service
+
+### [Notion](https://www.notion.so/)
+A cross-platform note taking and storing service, and take the notes in differnet types of layout
+- Feels a bit laggy and slow
 
 ## Environment
 

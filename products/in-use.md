@@ -23,6 +23,9 @@ String operations
 ### [Regex 101](https://regex101.com/)
 Regular expression builder and tester
 
+### [regexr](https://regexr.com/)
+Another regex builder and tester
+
 ### [Diff checker](https://www.diffchecker.com/)
 Passage diff comparer
 
@@ -38,27 +41,18 @@ Cheatsheet of the common markdown
 ### [Junk call checker](https://hkjunkcall.com/)
 Hong Kong Phone Number check origin
 
-## Application
+### [iHateRegex](https://ihateregex.io/expr/)
+Regex template for several use case
 
-### [Sequel Pro](https://sequelpro.com)
-MySQL/MariaDB Client with intuitive GUI
-- MacOS only
-- Use nightly version to prevent a bug in stable version
+### [Github profile readme generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)
+Github profile readme generator
 
-### [MySQL Workbench](https://www.mysql.com/products/workbench)
-Used to generate the MySQL/MariaDB UML diagram
+### [LetterCount](https://www.lettercount.com/)
+Just count the letter
 
-### [Sublime Text](https://www.sublimetext.com/)
-Lightweight while extensible text editor
-
-### [Postman](https://www.getpostman.com)
-Curl Request in intuitive GUI
-
-### [Sourcetree](https://www.sourcetreeapp.com)
-Free Git Repository Management Interface
-
-### [iTerm2](https://iterm2.com)
-Mac Terminal alternative
+### [CyberChef](https://gchq.github.io/CyberChef/)
+Text parser
+Remark: I need a all-in-one char process web app to integrate my use
 
 
 ## Self-host services
@@ -80,3 +74,7 @@ DNS, DDOS protection, etc
 Domain Purchase
 
 ### [Namecheap](https://www.namecheap.com/)
+Another domain Purchase, normally cheaper than Godaddy
+
+### [GitBook](https://www.gitbook.com/)
+Platform used for storing passage, or documentation
