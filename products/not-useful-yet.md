@@ -30,6 +30,12 @@ Local text parser, Mac only
 - under active development(20200902)
 - UX needs some improvement, as some operation needs multi-field input
 
+### [Figma](https://www.figma.com/)
+UI design tool
+
+### [React Sketch.app](http://airbnb.io/react-sketchapp/)
+React + Sketch
+
 ## Software
 
 ### [Jekyll](https://jekyllrb.com/)
@@ -61,6 +67,27 @@ Message Queue with RESTful interface
 ### [Kong](https://docs.konghq.com/1.0.x/admin-api)
 Proxy which allows user to control network access with RESTful API
 
+### [dive](https://github.com/wagoodman/dive)
+A tool for exploring a docker image, layer contents, and discovering ways to shrink your Docker image size.
+
+### [direnv](https://direnv.net/)
+Environment variable
+
+### [apiStar](https://docs.apistar.com/)
+OpenAPI or Swagger schemas toolkit
+
+### [Postal](https://github.com/postalhq/postal)
+Self hosted mail server
+
+### [kur](https://github.com/deepgram/kur)
+Open Source Deep learning without coding
+
+### [Maildrop](https://gitlab.com/markbeeson/maildrop)
+Self host "temporary inbox"
+
+### [safecopy](http://safecopy.sourceforge.net/)
+data recovery tool
+
 ## Framework 
 
 ### [Laravel](https://laravel.com)
@@ -91,6 +118,9 @@ CSS framework based on flexbox
 CSS framework, Bootstrap like, but only layout styles barebone
 - have not found an appropriate use case yet
 
+### [Tornado](https://www.tornadoweb.org/en/stable/)
+Python web framework and asynchronous networking library
+
 ## Library
 
 ### [async](https://caolan.github.io/async/v3/)
@@ -120,6 +150,9 @@ Confluence-like collaboration documentation service
 A cross-platform note taking and storing service, and take the notes in differnet types of layout
 - Feels a bit laggy and slow
 
+### [WorkflowCI](https://www.workflowci.com/use-cases)
+Workflow control manager, different components integration
+
 ## Environment
 
 ### [Podman](https://podman.io/)
@@ -129,9 +162,15 @@ A cross-platform note taking and storing service, and take the notes in differne
 Open source container manager, Docker alternative
 - have not found an appropriate use case yet
 
-### [Podman](https://github.com/containers/skopeo)
+### [skopeo](https://github.com/containers/skopeo)
 [introduction](https://blog.pichuang.com.tw/20180918-skopeo/)
 
 
 Open source container registry, Docker Hub alternative 
 - have not found an appropriate use case yet
+
+### [Spinnaker](https://www.spinnaker.io)
+CI/CD tool
+
+### [Moby](https://github.com/moby/moby)
+Toolset related to Containerization

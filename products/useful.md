@@ -47,6 +47,11 @@ Python library helps build up Command Line Interface in quick and intuitive way.
 ### [Vercel](https://vercel.com/)
 Framework for JavaScript frontend development
 
+### [Flask](https://flask.palletsprojects.com)
+[Set up procedure in host](https://www.digitalocean.com/community/tutorials/how-to-serve-flask-applications-with-uwsgi-and-nginx-on-centos-7)
+
+Web framework for Python
+
 ## Data
 
 List of data operation stuff.
@@ -54,7 +59,7 @@ List of data operation stuff.
 ### [Telegraf](https://github.com/influxdata/telegraf)
 The plugin-driven(in configuration) server agent for collecting & reporting metrics
 
-### Postgres
+### [PostgreSQL](https://www.postgresql.org/)
 SQL statement similar with MySQL but rumors said a bit faster
 
 ### [Flyway](https://flywaydb.org)
@@ -100,6 +105,14 @@ Proxy logs all HTTP request
 ### [Fiddler](https://www.telerik.com/fiddler)
 Another Proxy logs all HTTP request
 
+### [circleci](https://circleci.com/)
+CI/CD tool for cloud service
+
+### [Jenkins](https://jenkins.io)
+CI/CD tool bases on Java
+
+
+
 ## Collaboration
 
 ### [Git](https://git-scm.com/)
@@ -116,6 +129,12 @@ Another git visualization tool
 
 ### [GitX-dev](http://rowanj.github.io/gitx/)
 Another git visualization tool
+
+### [CloudCraft](https://cloudcraft.co/)
+AWS architecture visualization
+
+### [Taskade](https://www.taskade.com/)
+Task organisation, can used for collaboration
 
 ## Self-host services
 
@@ -136,8 +155,14 @@ Image compresser
 ### [Manta](https://github.com/hql287/Manta)
 Invoice generator
 
+### [fakejson](https://fakejson.com/)
+Mock JSON response API service
+
+### [Sizzy](https://sizzy.co/)
+Test responsive UI in different size at the same time
+
 ## Other's List
 
-- (https://github.com/hzlzh/Best-App)[https://github.com/hzlzh/Best-App]
-- (https://github.com/jaywcjlove/awesome-mac)[https://github.com/jaywcjlove/awesome-mac]
-- (https://kaochenlong.com/2012/01/04/my-toolbox/)[https://kaochenlong.com/2012/01/04/my-toolbox/]
+- [https://github.com/hzlzh/Best-App](https://github.com/hzlzh/Best-App)
+- [https://github.com/jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac)
+- [https://kaochenlong.com/2012/01/04/my-toolbox/](https://kaochenlong.com/2012/01/04/my-toolbox/)

@@ -1,66 +1,7 @@
 # Untouched
 
-## Automation
 
-### CI/CD
-
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left">Name</th>
-      <th style="text-align:left">Description</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left"><a href="https://www.workflowci.com/use-cases">WorkflowCI</a>
-      </td>
-      <td style="text-align:left">Workflow control manager, different components integration</td>
-    </tr>
-    <tr>
-      <td style="text-align:left"><a href="https://www.spinnaker.io/">Spinnaker</a>
-      </td>
-      <td style="text-align:left">CI/CD tool</td>
-    </tr>
-    <tr>
-      <td style="text-align:left"><a href="https://www.netlify.com/products/">Netlify</a>
-      </td>
-      <td style="text-align:left">CI/CD for static sites, hosting included</td>
-    </tr>
-    <tr>
-      <td style="text-align:left"><a href="https://github.com/moby/moby">Moby</a>
-      </td>
-      <td style="text-align:left">Toolset related to Containerization</td>
-    </tr>
-    <tr>
-      <td style="text-align:left"><a href="https://circleci.com/">circleci</a>
-      </td>
-      <td style="text-align:left">CI/CD tool for cloud service</td>
-    </tr>
-    <tr>
-      <td style="text-align:left"><a href="https://jenkins.io/zh/">Jenkins</a>
-      </td>
-      <td style="text-align:left">CI/CD tool bases on Java</td>
-    </tr>
-    <tr>
-      <td style="text-align:left"><a href="https://cloudcraft.co/">CloudCraft</a>
-      </td>
-      <td style="text-align:left">Visualize AWS architectures</td>
-    </tr>
-    <tr>
-      <td style="text-align:left"><a href="https://github.com/wagoodman/dive">dive</a>
-      </td>
-      <td style="text-align:left">
-        <p>A tool for exploring a docker image, layer contents,</p>
-        <p>and discovering ways to shrink your Docker image size.</p>
-      </td>
-    </tr>
-  </tbody>
-</table>## Development
-
-| Name | Description |
-| :--- | :--- |
-| [yabai](https://github.com/koekeishiya/yabai) | MacOS window tiling system |
+## Development
 
 ### UI
 
@@ -78,12 +19,6 @@
 | :--- | :--- |
 | [2Dimensions](https://docs.2dimensions.com/support/) | Build games run on browsers |
 | [cocos2d](https://cocos2d-x.org/) | Thin layer to build games in C++ |
-
-### Web
-
-| Name | Description |
-| :--- | :--- |
-| [Tornado](https://www.tornadoweb.org/en/stable/) | Python web framework and asynchronous networking library |
 
 ### Security
 
@@ -177,10 +112,6 @@
 
 | Name | Description |
 | :--- | :--- |
-| [ResumeBuild](https://resumebuild.com/?home=true) |  |
-| [VisualCV](https://www.visualcv.com/) |  |
-| [Resume.io](https://resume.io/) |  |
-| [doyoubuzz](https://www.doyoubuzz.com/us/) |  |
 | [brain.fm](https://brain.fm/) | Paid music service to improve focus in 15 mins. |
 
 ## Others

@@ -78,3 +78,6 @@ Another domain Purchase, normally cheaper than Godaddy
 
 ### [GitBook](https://www.gitbook.com/)
 Platform used for storing passage, or documentation
+
+### [Netlify](https://www.netlify.com/products/)
+Hosting service with CI/CD features
