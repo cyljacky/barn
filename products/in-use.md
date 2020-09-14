@@ -1,4 +1,5 @@
 # In Use
+
 Tools that in active usage.
 
 ## Macbook Apps
@@ -6,7 +7,6 @@ Tools that in active usage.
 Here lists softwares I installed in current using Macbook
 
 ### Development
-
 - [Visual Studio Code](https://code.visualstudio.com/) - editor for projects, quite resource consuming
 - [Sublime Text 3](http://www.sublimetext.com/) - editor for simple files, lightweight
 - [Sequel Pro](https://sequelpro.com) - MySQL/MariaDB Client with intuitive GUI. Use nightly version to prevent a bug in stable version
@@ -24,7 +24,7 @@ Here lists softwares I installed in current using Macbook
 ### Productivity
 - [Karabiner-Element](https://karabiner-elements.pqrs.org/) - Mac key mapping
 - [Rectangle](https://rectangleapp.com/) - Window location manager
-- [Thunderbird](https://www.thunderbird.net/) - email client and XSS Reader
+- [Thunderbird](https://www.thunderbird.net/) - email client and RSS Reader
 - [Nextcloud](https://nextcloud.com/) - Self-host cloud storage
 - [Brew](https://brew.sh/) - Mac software installer
 - [tmux](https://github.com/tmux/tmux) - terminal splitter
@@ -43,6 +43,8 @@ Here lists softwares I installed in current using Macbook
 - [gnucash](https://www.gnucash.org/) - Finance Tracker
 
 ## Website Bookmarks
+
+### Productivity
 - [Dead Link Checker](https://www.deadlinkchecker.com/website-dead-link-checker.asp) - Check if any page of the website contains any broken link.
 - [IP to Long IP Converter](https://www.smartconversion.com/unit_conversion/IP_Address_Converter.aspx) - IP <=> Integer
 - [Epoch & Unix Timestamp Conversion Tools](https://www.epochconverter.com/) - Human date <=> Timestamp
@@ -52,20 +54,25 @@ Here lists softwares I installed in current using Macbook
 - [regexr](https://regexr.com/) - Another regex builder and tester
 - [Diff checker](https://www.diffchecker.com/) - Passage diff comparer
 - [.htaccess check](http://www.htaccesscheck.com/index.html) - .htaccess file checker
-- [Draw.io](https://www.draw.io/) - Graph drawer
-- [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) - Cheatsheet of the common markdown
-- [Junk call checker](https://hkjunkcall.com/) - Hong Kong Phone Number check origin
 - [iHateRegex](https://ihateregex.io/expr/) - Regex template for several use case
 - [Github profile readme generator](https://rahuldkjain.github.io/gh-profile-readme-generator/) - Github profile readme generator
 - [LetterCount](https://www.lettercount.com/) - Just count the letter
 - [CyberChef](https://gchq.github.io/CyberChef/) - Text parser
+
 Remark: I need a all-in-one char process web app to integrate my use
+
+### Others
+- [Draw.io](https://www.draw.io/) - Graph drawer
+- [Junk call checker](https://hkjunkcall.com/) - Hong Kong Phone Number check origin
+- [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) - Cheatsheet of the common markdown
+
+## Browser Extensions
+- [VisBug](https://github.com/GoogleChromeLabs/ProjectVisBug) - Open source web design debug tools
+- [Dark Reader](https://darkreader.org/) - Force dark theme webpage
+- [wappalyzer](https://www.wappalyzer.com/) - Auto detect tech stack used in webpage
 
 ## Self-host services
 - [pi.hole](https://pi-hole.net) - ADs blocker by DNS blackhole routing
-
-## Extensions
-- [VisBug](https://github.com/GoogleChromeLabs/ProjectVisBug) - Open source web design debug tools in Extension
 
 ## 3-rd Party Services
 - [Cloudflare](https://www.cloudflare.com/) - DNS, DDOS protection, etc
