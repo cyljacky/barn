@@ -11,6 +11,7 @@ Stuff that feels not useful at the moment.
 ## Design
 
 - [Figma](https://www.figma.com/) - UI design tool
+- [Overflow](https://overflow.io/) - Design presentation, for mobile 
 
 ## Development
 
@@ -52,10 +53,20 @@ Stuff that feels not useful at the moment.
 - [Bulma](https://bulma.io/) - CSS framework based on flexbox
 - [Tailwind CSS](https://tailwindcss.com/) - CSS framework, Bootstrap like, but only layout styles barebone
 - [Tornado](https://www.tornadoweb.org/en/stable/) - Python web framework and asynchronous networking library
+- [Svelte](https://svelte.dev/) - UI JS library in reactive programming philosophy
+- [Feathers](https://feathersjs.com) - Web framework 
+- [React Rainbow](https://react-rainbow.web.app/) - UI React component
 
 ### Fullstack Framework
 - [Laravel](https://laravel.com) - Full featured PHP framework with elegant syntax and good code design
 - [Yii2](https://www.yiiframework.com/) - Full featured PHP framework can be easily pick up
+
+### Gaming
+- [toy](https://hugoam.github.io/toy-io/) - Open source game engine using C++ as language
+- [ct.js](https://ctjs.rocks/) - 2D game engine using JavaScript
+- [Phaser](https://phaser.io/) - JavaScript engine for games on browser
+- [2Dimensions](https://docs.2dimensions.com/support/) - Build games run on browsers 
+- [cocos2d](https://cocos2d-x.org/) - Thin layer to build games in C++ 
 
 ### Mailing
 - [Postal](https://github.com/postalhq/postal) - Self hosted mail server
@@ -69,6 +80,12 @@ Stuff that feels not useful at the moment.
 
 ### Productivity
 - [Insomnia](https://insomnia.rest/) - Curl with good UX, Postman alt.
+- [Cryptii](https://cryptii.com/) - Text convertion website 
+- [asciidoctor](https://asciidoctor.org/) - Change asciidoc to HTML5, DocBook or others 
+
+### Security
+- [streisand](https://github.com/StreisandEffect/streisand) - Bridge to VPN services  
+- [pfSense](https://github.com/pfsense/pfsense) - free network firewall distribution 
 
 ### Site
 - [Jekyll](https://jekyllrb.com/) - [experience](../experience/jekyll.md) Static site generator written in Ruby
@@ -84,13 +101,15 @@ Stuff that feels not useful at the moment.
 - [Nuclino](https://www.nuclino.com/) - Confluence-like collaboration documentation service
 - [Notion](https://www.notion.so/) - A cross-platform note taking and storing service, and take the notes in differnet types of layout
 
-## Game
+## Entertainment
 
 - [ProtonDB](https://www.protondb.com/) - Database about playing Steam games on Linux originally available on Windows
 - [BlueStack](https://www.bluestacks.com/tw/index.html) - Play mobile games on PC
-- [toy](https://hugoam.github.io/toy-io/) - Open source game engine using C++ as language
-- [ct.js](https://ctjs.rocks/) - 2D game engine using JavaScript
-- [Phaser](https://phaser.io/) - JavaScript engine for games on browser
+- [Anywhr](https://www.anywhr.co/) - Trip Curator, surprise trip organiser 
+- [Sonarr](https://github.com/Sonarr/Sonarr) - Personal Video Recorder for Usenet and BitTorrent 
+- [Radarr](https://github.com/Radarr/Radarr) - Fork of Sonarr, automatically downloading movies via Usenet and BitTorrent 
+- [Kodi](https://github.com/xbmc/xbmc) - open source home theater/media center 
+- [brain.fm](https://brain.fm/) - Paid music service to improve focus in 15 mins. 
 
 ## Productivity
 
@@ -98,3 +117,6 @@ Stuff that feels not useful at the moment.
 - [Mark Text](https://github.com/marktext/marktext/) - Open source markdown editor
 - [Fantastical](https://flexibits.com/fantastical) - Mac Calender replacement
 - [Boop](https://boop.okat.best/) - Local text parser
+
+## Security
+- [Firefox Monitor](https://monitor.firefox.com/) - Check if you're email is being breached or not 
