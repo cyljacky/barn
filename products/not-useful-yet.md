@@ -8,6 +8,11 @@ Stuff that feels not useful at the moment.
 ## Banking
 - [plaid](https://plaid.com/) - API for banking account management
 
+## Collaboration
+- [Asana](https://asana.com/) - Project Management tool 
+- [Firefox Send](https://send.firefox.com/) - Share files through link 
+- [Screen Cat](https://github.com/maxogden/screencat) - Screen sharing electron app for MacOS 
+
 ## Design
 
 - [Figma](https://www.figma.com/) - UI design tool
@@ -68,15 +73,34 @@ Stuff that feels not useful at the moment.
 - [2Dimensions](https://docs.2dimensions.com/support/) - Build games run on browsers 
 - [cocos2d](https://cocos2d-x.org/) - Thin layer to build games in C++ 
 
+### Hosting
+- [DigitalOcean](https://www.digitalocean.com/) - Hosting 
+- [Heroku](https://www.heroku.com/home) - Container as a Service 
+- [WebFaction](https://www.webfaction.com/) - Coporates with GoDaddy 
+
+### IDE
+
+- [KDevelop](https://www.kdevelop.org/) - Open Source, for C++, Python, JS, PHP 
+- [Android Jetpack](https://developer.android.com/jetpack/) - Libraries, tools, and guidance to build Android Apps, Kotlin 
+- [SonarQube](https://www.sonarqube.org/) - Automated programming code analysis, include CI/CD and security issues 
+
 ### Mailing
 - [Postal](https://github.com/postalhq/postal) - Self hosted mail server
 - [Maildrop](https://gitlab.com/markbeeson/maildrop) - Self host "temporary inbox"
 - [Mail-in-a-box](https://github.com/mail-in-a-box/mailinabox) - easy-to-deploy SMTP
 
+### Monitoring
+
+- [Grafana Loki](https://github.com/grafana/loki) - Log visualization through Grafana 
+- [Sematext](https://sematext.com/) - Logging and Monitoring 
+- [CheckMK](https://checkmk.com/) - Endpoint Monitoring 
+
 ### Network
 
 - [Kong](https://docs.konghq.com/1.0.x/admin-api) - Proxy which allows user to control network access with RESTful API
 - [Socket.io](https://hugoam.github.io/toy-io/) - JS engine used for communication
+- [passivedns](https://github.com/gamelinux/passivedns) - Monitor DNS query and result within network 
+- [HTTP View](https://httptoolkit.tech/view/) - Intercept and examine HTTP endpoint 
 
 ### Productivity
 - [Insomnia](https://insomnia.rest/) - Curl with good UX, Postman alt.
