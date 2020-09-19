@@ -1,15 +1,12 @@
----
-description: 'At certain situation, these tools may give a big help.'
----
+# Tips about Python
 
-# Hidden Gems - Python
-
+## Thread and Pool
 * concurrent.futures.ThreadPoolExecutor
   * Threads the process and limits them into a Pool of Threads
 * concurrent.futures.ProcessPoolExecutor
   * Same with previous but use Process instead
-* [tqdm](https://github.com/tqdm/tqdm)
-  * CLI progress bar visualization
+
+## Async/Await
 * asyncio
   * write **concurrent** code using the **async/await** syntax
   * [https://stackabuse.com/python-async-await-tutorial/](https://stackabuse.com/python-async-await-tutorial/)
