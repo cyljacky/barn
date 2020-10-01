@@ -9,3 +9,4 @@ Interesting pages that can used for reference, or subscribe
 - [GitLab Flow](https://docs.gitlab.com/ee/topics/gitlab_flow.html) - Git development flow
 - [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/) - Points of writing good commit message
 - [CNCF Cloud Native Interactive Landscape](https://landscape.cncf.io/) - DevOps Compendium
+- [Spritely](https://spritelyproject.org/)

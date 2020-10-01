@@ -35,6 +35,7 @@
 - [Radarr](https://github.com/Radarr/Radarr) - Fork of Sonarr, automatically downloading movies via Usenet and BitTorrent 
 - [Kodi](https://github.com/xbmc/xbmc) - open source home theater/media center 
 - [brain.fm](https://brain.fm/) - Paid music service to improve focus in 15 mins. 
+- [OBS Studio](https://obsproject.com/) - Open source software for video recording and live streaming
 
 ## Productivity
 

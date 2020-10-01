@@ -9,9 +9,10 @@ Here lists softwares I installed in current using Macbook
 ### Development
 - [Visual Studio Code](https://code.visualstudio.com/) - editor for projects, quite resource consuming
 - [Sublime Text 3](http://www.sublimetext.com/) - editor for simple files, lightweight
+- [DBeaver](https://dbeaver.io/) - Multi-database GUI client, supports MySQL/MariaDB, Progresql, Oracle, etc
 - [Sequel Pro](https://sequelpro.com) - MySQL/MariaDB Client with intuitive GUI. Use nightly version to prevent a bug in stable version
 - [Valentina DB](https://www.valentina-db.com/en/get-free-valentina-studio) - Progresql client
-- [MySQL Workbench](https://www.mysql.com/products/workbench) - generate the MySQL/MariaDB UML diagram
+
 - [Postman](https://www.getpostman.com) - Curl Request in intuitive GUI
 - [Sourcetree](https://www.sourcetreeapp.com) - Free Git Repository Manager
 - [iTerm2](https://iterm2.com) - Mac Terminal alternative

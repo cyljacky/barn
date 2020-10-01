@@ -14,10 +14,11 @@
 - [Taskade](https://www.taskade.com/) - Task organisation, can used for collaboration
 
 ## Command Line
+
 - [Click](https://click.palletsprojects.com/en/7.x/) - [experience](../experience/click.md) Python library helps build up Command Line Interface in quick and intuitive way.
 - [tqdm](https://github.com/tqdm/tqdm) - CLI progress bar visualization
 
-## Data
+## Database
 
 - [mermaid](https://mermaid-js.github.io/mermaid/#/) - Use it's own syntax to generate different types of graphs
 - [Frink](https://frinklang.org/) - Calculation tool for unit convertion and mathematics
@@ -29,6 +30,11 @@
 - [Flyway](https://flywaydb.org) - Database schema versioning tool
 - [Plod](https://plod.app/#/) - Data graph hosting with charts
 - [Grafana](https://github.com/grafana/grafana) - Interface for data visualization
+- [shmig](https://github.com/mbucc/shmig) - Lightweight version of Flyway
+
+## Database Client
+
+- [MySQL Workbench](https://www.mysql.com/products/workbench) - generate the MySQL/MariaDB UML diagram
 
 ## Document
 
@@ -41,12 +47,14 @@
 - [mkcert](https://github.com/FiloSottile/mkcert) - Make a local trust development SSL certificate
 
 ### CI/CD
+
 - [GitLab CI/CD](https://docs.gitlab.com/ee/ci/) - Automate environment buildup, testing, and deployment
 - [Spinnaker](https://www.spinnaker.io) - CI/CD tool
 - [circleci](https://circleci.com/) - CI/CD tool for cloud service
 - [Jenkins](https://jenkins.io) - CI/CD tool built by Java
 
 ### Containerisation
+
 - [Docker](https://www.docker.com/) - Containerise tool
 - [docker-compose](https://docs.docker.com/compose/) - Container Management
 - [dive](https://github.com/wagoodman/dive) - A tool for exploring a docker image, layer contents, and discovering ways to shrink your Docker image size.
@@ -69,12 +77,14 @@
 - [Vercel](https://vercel.com/) - Framework for JavaScript frontend development
 
 ## Fullstack Framework
+
 - [Laravel](https://laravel.com) - Full featured PHP framework with elegant syntax and good code design
 - [Yii2](https://www.yiiframework.com/) - Full featured PHP framework can be easily pick up
 - [Django](https://www.djangoproject.com/) - Full-featured python web framework
 - [Tornado](https://www.tornadoweb.org/en/stable/) - Python web framework and asynchronous networking library
 
 ## Gaming
+
 - [toy](https://hugoam.github.io/toy-io/) - Open source game engine using C++ as language
 - [ct.js](https://ctjs.rocks/) - 2D game engine using JavaScript
 - [Phaser](https://phaser.io/) - JavaScript engine for games on browser
@@ -82,9 +92,12 @@
 - [cocos2d](https://cocos2d-x.org/) - Thin layer to build games in C++ 
 
 ## Hosting
+
 - [DigitalOcean](https://www.digitalocean.com/) - Hosting 
 - [Heroku](https://www.heroku.com/home) - Container as a Service 
 - [WebFaction](https://www.webfaction.com/) - Coporates with GoDaddy 
+- [Netlify](https://www.netlify.com/) - Uses AWS with containers for website hosting, detailed configuration can be set
+- [Vercel](https://vercel.com/) - Uses AWS with better CDN then Netlify, targets zero config deployment
 
 ## IDE
 
@@ -93,6 +106,7 @@
 - [SonarQube](https://www.sonarqube.org/) - Automated programming code analysis, include CI/CD and security issues 
 
 ## Mailing
+
 - [Postal](https://github.com/postalhq/postal) - Self hosted mail server
 - [Maildrop](https://gitlab.com/markbeeson/maildrop) - Self host "temporary inbox"
 - [Mail-in-a-box](https://github.com/mail-in-a-box/mailinabox) - easy-to-deploy SMTP
@@ -111,12 +125,15 @@
 - [HTTP View](https://httptoolkit.tech/view/) - Intercept and examine HTTP endpoint 
 
 ## Productivity
+
 - [Insomnia](https://insomnia.rest/) - Curl with good UX, Postman alt.
 - [Cryptii](https://cryptii.com/) - Text convertion website 
 - [asciidoctor](https://asciidoctor.org/) - Change asciidoc to HTML5, DocBook or others 
 - [Sizzy](https://sizzy.co/) - Test responsive UI in different size at the same time
+- [devutils.app](https://devutils.app/) - Developer Utilities for macOS, mostly about text processing
 
 ## Proxy
+
 - [mitmproxy](https://mitmproxy.org/) - Proxy logs all HTTP request
 - [Fiddler](https://www.telerik.com/fiddler) - Another Proxy logs all HTTP request
 - [OpenResty](https://openresty.org/en/) - Available to run some code(Lua) within Nginx configuration files
@@ -128,6 +145,7 @@
 - [Flask](https://flask.palletsprojects.com) - [Set up procedure in host](https://www.digitalocean.com/community/tutorials/how-to-serve-flask-applications-with-uwsgi-and-nginx-on-centos-7)Web framework for Python
 
 ## Security
+
 - [JWT](https://jwt.io/) - [experience](../experience/json-web-token.md) Standard to verify token across servers
 - [streisand](https://github.com/StreisandEffect/streisand) - Bridge to VPN services
 - [pfSense](https://github.com/pfsense/pfsense) - free network firewall distribution 
@@ -135,6 +153,7 @@
 - [loginsrv](https://github.com/tarent/loginsrv) - Standalone minimalistic login server providing a JWT login for multiple login backends
 
 ## Site
+
 - [Jekyll](https://jekyllrb.com/) - [experience](../experience/jekyll.md) Static site generator written in Ruby
 
 ## Standard
